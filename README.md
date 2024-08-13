@@ -13,7 +13,9 @@ Provide recommendations for pricing adjustments based on aircraft conditions, fa
 #### Profitability Improvement
 Explore the impact of increasing occupancy rates by 10% to project potential gains in profitability.
 ## Data
-The analysis is based on a dataset containing various attributes such as aircraft code, number of seats, ticket prices, revenue, and booking trends. Key metrics such as total revenue per aircraft, average revenue per ticket, and occupancy rates are calculated to gain insights into the airline's operational efficiency.
+The analysis is based on a dataset containing various attributes such as aircraft code, number of seats, ticket prices, revenue, and booking trends. Key metrics such as total revenue per aircraft, average revenue per ticket, and occupancy rates are calculated to gain insights into the airline's operational efficiency. 
+#### Data Source:
+https://drive.google.com/file/d/1E3XxVGLqhlXcymQm15ocIv3yz5tk7jxW/view?usp=drive_link
 
 ## Tools and Techniques Used
 #### Python
