@@ -1,7 +1,7 @@
 # Airlines Data Analysis
 
 ## Project Overview
-This project focuses on analyzing an airline’s occupancy rates, revenue, and pricing strategies to identify opportunities for enhancing profitability. Given the challenges of stricter environmental regulations, higher flight taxes, and a tight labor market, the goal is to uncover insights that can help optimize operations, pricing, and customer satisfaction.
+This project analyzes an airline’s occupancy rates, revenue, and pricing strategies to identify opportunities for enhancing profitability. Given the challenges of stricter environmental regulations, higher flight taxes, and a tight labor market, the goal is to uncover insights that can help optimize operations, pricing, and customer satisfaction.
 
 ## Objectives
 #### Revenue Analysis 
@@ -9,7 +9,7 @@ Evaluate total revenue per year and average revenue per ticket for each aircraft
 #### Occupancy Rate Analysis
 Assess the average occupancy rates across various aircraft and identify areas for potential improvement.
 #### Pricing Strategy Optimization 
-Provide recommendations for pricing adjustments based on aircraft conditions, facilities, and market demand.
+Recommend pricing adjustments based on aircraft conditions, facilities, and market demand.
 #### Profitability Improvement
 Explore the impact of increasing occupancy rates by 10% to project potential gains in profitability.
 ## Data
